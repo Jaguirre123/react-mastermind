@@ -1,0 +1,14 @@
+.Scores {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.Scores-cancel {
+    width: 100px;
+}
+
+.Scores-table {
+    width: 380px;
+}
